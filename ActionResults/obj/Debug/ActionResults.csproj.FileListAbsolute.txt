@@ -12,3 +12,6 @@ C:\Users\Admin\Documents\Downloads\aspnet-3f34254d5ebec499ba8bc470544c7d401f3794
 C:\Users\Admin\Documents\Downloads\aspnet-3f34254d5ebec499ba8bc470544c7d401f379406\Samples\WebApi\ActionResults\ActionResults\obj\Debug\ActionResults.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\Downloads\aspnet-3f34254d5ebec499ba8bc470544c7d401f379406\Samples\WebApi\ActionResults\ActionResults\obj\Debug\ActionResults.dll
 C:\Users\Admin\Documents\Downloads\aspnet-3f34254d5ebec499ba8bc470544c7d401f379406\Samples\WebApi\ActionResults\ActionResults\obj\Debug\ActionResults.pdb
+D:\gitProducts\webapi\ActionResults\obj\Debug\ActionResults.csprojResolveAssemblyReference.cache
+D:\gitProducts\webapi\ActionResults\obj\Debug\ActionResults.dll
+D:\gitProducts\webapi\ActionResults\obj\Debug\ActionResults.pdb
