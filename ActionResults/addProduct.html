@@ -5,7 +5,7 @@
     <script src="jquery-3.2.1.js"></script>
 </head>
 <body>
-    <form action="">
+    <form>
         <div>
             <label>Id:</label>
             <input id="_id" name="_id"/>
@@ -14,6 +14,24 @@
             <label>Name:</label>
             <input id="_name" name="_name"/>
         </div>
+        <input type="button" onclick="func()"/>
     </form>
+    <script type="text/javascript">
+        function func() {
+            $.ajax({
+                contentType: "application/json",
+                type: 'POST',
+                async: true,
+                dataType: "json",
+                url: 'product/Add',
+                data:JSON.stringify({ Id: $('#_id').val(), Name: $('#_name').val() }),
+                success: function () { alert('success') },
+                error: function () { alert('error') }
+            });
+
+        }
+
+
+    </script>
 </body>
 </html>

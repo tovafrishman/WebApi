@@ -41,6 +41,7 @@ namespace ActionResults.Controllers
         }
 
         [HttpPost]
+        [ActionName("Add")]
         [Route("product/add")]
         public IHttpActionResult Add(Product prod)
         {

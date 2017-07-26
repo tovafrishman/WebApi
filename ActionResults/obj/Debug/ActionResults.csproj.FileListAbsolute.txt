@@ -1,0 +1,12 @@
+D:\gitProducts\webapi\ActionResults\obj\Debug\ActionResults.csprojResolveAssemblyReference.cache
+D:\gitProducts\webapi\ActionResults\bin\ActionResults.dll
+D:\gitProducts\webapi\ActionResults\bin\ActionResults.pdb
+D:\gitProducts\webapi\ActionResults\bin\System.Net.Http.Formatting.dll
+D:\gitProducts\webapi\ActionResults\bin\System.Web.Http.dll
+D:\gitProducts\webapi\ActionResults\bin\System.Web.Http.WebHost.dll
+D:\gitProducts\webapi\ActionResults\bin\Newtonsoft.Json.xml
+D:\gitProducts\webapi\ActionResults\bin\System.Net.Http.Formatting.xml
+D:\gitProducts\webapi\ActionResults\bin\System.Web.Http.xml
+D:\gitProducts\webapi\ActionResults\bin\System.Web.Http.WebHost.xml
+D:\gitProducts\webapi\ActionResults\obj\Debug\ActionResults.dll
+D:\gitProducts\webapi\ActionResults\obj\Debug\ActionResults.pdb
