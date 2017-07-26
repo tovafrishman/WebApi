@@ -60,9 +60,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="addProduct.html" />
     <Content Include="Default.htm" />
     <Content Include="Download.xml" />
     <Content Include="Global.asax" />
+    <Content Include="jquery-3.2.1.js" />
+    <Content Include="obj\Debug\ActionResults.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\ActionResults.dll" />
+    <Content Include="obj\Debug\ActionResults.pdb" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -75,6 +80,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Results\OkFileDownloadResult.cs" />
     <Compile Include="Results\OkTextPlainResult.cs" />
   </ItemGroup>
@@ -82,6 +90,8 @@
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="obj\Debug\ActionResults.csprojResolveAssemblyReference.cache" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -89,7 +99,9 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

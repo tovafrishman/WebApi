@@ -39,5 +39,18 @@ namespace ActionResults.Controllers
 
             return Ok(_catalog[id]);
         }
+
+        [HttpPost]
+        [Route("product/add")]
+        public IHttpActionResult Add(Product prod)
+        {
+            _catalog.Add(prod.Id,prod.Name);
+            return Ok();
+        }
+    }
+    public class Product
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
